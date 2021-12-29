@@ -214,14 +214,13 @@ $radios = $datos['color'];
 <link rel="stylesheet" type="text/css" href="../lib/social.css">
 <link rel="stylesheet" type="text/css" href="../lib/font.css">
 -->
- <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="../lib/bootstrap.min.css">
   <link rel="stylesheet" href="../lib/boot.css">
   <!-- Inconos Font awesome -->
   <link rel="stylesheet" href="../iconos_fa/css/font-awesome.min.css">
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.0/css/font-awesome.min.css">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.1.0/css/font-awesome.min.css" integrity="sha512-50FDJVqyzmdlzbOw76xzlnTCBh4QTDKH+vhRs6Ba4IfqIaS7qChf1ZXTDfIz446f3ftmaVS8j7WcG4+DOygn2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="../lib/bootstrap.min.js"></script>
 
   <script src="../js/print.js"></script>
