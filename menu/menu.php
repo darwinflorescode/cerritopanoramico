@@ -102,7 +102,7 @@ if ($prod >0){
  <a href="../cliente/mostrar.php" data-toggle="tooltip" data-placement="top" title="Clientes">
     <div id="" class="pull-left radius-5px" style=" margin: 1px; border: 1px solid #ddd;">
         <div class="pull-left">     
-        <img src="../imagenes/cliente.jpg" width="140px" >        
+        <img src="../imagenes/cliente.jpeg" width="140px" >        
         </div>
         <div class="pull-left" style=" width:75px;">
         <div>
