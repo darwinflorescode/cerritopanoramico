@@ -214,10 +214,9 @@ $radios = $datos['color'];
 <link rel="stylesheet" type="text/css" href="../lib/social.css">
 <link rel="stylesheet" type="text/css" href="../lib/font.css">
 -->
-
+ <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="../lib/bootstrap.min.css">
   <link rel="stylesheet" href="../lib/boot.css">
-<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
   <!-- Inconos Font awesome -->
   <link rel="stylesheet" href="../iconos_fa/css/font-awesome.min.css">
 
