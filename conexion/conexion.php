@@ -43,4 +43,4 @@ function conexion()
 	}
 	return $conn;
 }
-//conexion();
+conexion();
