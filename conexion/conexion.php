@@ -3,13 +3,13 @@
 function conexion()
 {
 	$conn = null;
-	$host = 'localhost';
-	$db = 'db_cerrito';
-	$user = 'root';
-	$pwd = '';
+	$host = 'bdgn93lmfsskkapie9rn-mysql.services.clever-cloud.com';
+	$db = 'bdgn93lmfsskkapie9rn';
+	$user = 'uycvgcufe6ep1zum';
+	$pwd = '2Z5PbKoaKqijKJOm65Vh';
 
 	try {
-		$conn = new PDO('mysql://uycvgcufe6ep1zum:2Z5PbKoaKqijKJOm65Vh@bdgn93lmfsskkapie9rn-mysql.services.clever-cloud.com:3306/bdgn93lmfsskkapie9rn');
+		$conn = new PDO('mysql:host=' . $host . '; dbname=' . $db, $user, $pwd);
 		//echo 'Conexion satisfactoria.<br>';
 
 	} catch (PDOException $e) {
