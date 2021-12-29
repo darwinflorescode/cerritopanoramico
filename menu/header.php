@@ -219,7 +219,7 @@ $radios = $datos['color'];
   <link rel="stylesheet" href="../lib/boot.css">
   <!-- Inconos Font awesome -->
   <link rel="stylesheet" href="../bootstrap/css/font-awesome.min.css">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css">
 
   <script src="../lib/bootstrap.min.js"></script>
 
