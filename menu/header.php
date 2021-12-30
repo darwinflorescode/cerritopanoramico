@@ -635,5 +635,4 @@ en el sistema, por ejemplo compras clientes, etc-->
     <!-- Podemos agregar mas.
 Este archivo es llamado desde otros archivos ya q solo muestra el menu y la parte superior del diseño del
 sistema restaurante cerrito panoramico
-
 -->
